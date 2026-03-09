@@ -159,7 +159,19 @@ smart-travel-planner/
 │
 └── README.md
 ```
+## 📸 Application Screenshots
 
+### 🧭 Travel Planner Interface
+This page allows users to enter destination, travel dates, budget, and preferences to generate a personalized trip plan.
+
+![Travel Planner](docs/images/planner-page.png)
+
+---
+
+### 🗺 Generated Travel Itinerary
+After generating the plan, the system creates a day-by-day itinerary including locations, time schedule, weather information, and route visualization.
+
+![Travel Itinerary](docs/images/itinerary-page.png)
 ---
 
 ## 🤝 Contributing
