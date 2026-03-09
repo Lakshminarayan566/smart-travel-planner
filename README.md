@@ -174,5 +174,10 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+<div align="center">
+
+**Built by [Lakshminarayan566](https://github.com/Lakshminarayan566)**
+
+
 
 </div>
